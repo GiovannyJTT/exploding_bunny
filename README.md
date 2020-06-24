@@ -3,4 +3,4 @@ OpenGL app that shows the explosion effect of an object using C++ and GLSL. Most
 
 https://youtu.be/FPhnLEm4NMk
 
-![alt text](https://github.com/GiovannyJTT/exploding_bunny/blob/master/exploding_bunny_gif.gif "Exploding Bunny Gif")
+![alt text](https://github.com/GiovannyJTT/exploding_bunny/blob/master/images/exploding_bunny_gif.gif "Exploding Bunny Gif")
